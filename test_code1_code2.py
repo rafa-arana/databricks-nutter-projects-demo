@@ -49,5 +49,4 @@ if is_job:
 
 # COMMAND ----------
 
-# New comment 2
-
+# New comment for release 2
